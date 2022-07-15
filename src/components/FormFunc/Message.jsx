@@ -1,9 +1,9 @@
 import React, {useState} from "react";
-import {Input} from "../FormClass/Input";
-import {Button} from "../FormClass/Button";
+import {Input} from "./Input";
+import {Button} from "./Button";
 
 
-export const Form = () => {
+export const Message = () => {
     // state = {
     //     name: 'Click',
     //     value: '',
